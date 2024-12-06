@@ -1,3 +1,3 @@
 # dengorp-coursework
 - Course Work Drones
-   -  [клац]() 
+   -  [клац](https://github.io/course-work.drones/kursova.html) 
